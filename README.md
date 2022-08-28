@@ -1,2 +1,2 @@
 # java-exercice
-*My exercises in C# made during my estuding*
+*My exercises in java made during my estuding*
